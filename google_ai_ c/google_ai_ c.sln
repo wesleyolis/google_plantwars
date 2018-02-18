@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "google_ai_ c", "google_ai_ c\google_ai_ c.vcxproj", "{0444E638-C56C-439E-A9A6-32CADB5F748D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0444E638-C56C-439E-A9A6-32CADB5F748D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0444E638-C56C-439E-A9A6-32CADB5F748D}.Debug|Win32.Build.0 = Debug|Win32
+		{0444E638-C56C-439E-A9A6-32CADB5F748D}.Release|Win32.ActiveCfg = Release|Win32
+		{0444E638-C56C-439E-A9A6-32CADB5F748D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

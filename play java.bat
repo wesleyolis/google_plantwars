@@ -1,0 +1,1 @@
+java -jar tools/PlayGame.jar maps/map43.txt 1000 1000 log.txt "java -jar example_bots/ProspectorBot.jar" "java -jar example_bots/ProspectorBot.jar" | java -jar tools/ShowGame.jar
